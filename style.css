@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    background-image: url(./assert/image4.jpeg);
+    height: 700px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 50px;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+    font-size: 60px;
+    font-family: Montserrat;
+    font-weight: 900;
+     margin-top:100px ;
+     margin-left: 30px;
+}
+
+img{
+    margin-left: 30px;
+}
+h2{
+    color: white;
+    margin-left: 30px;
+    margin-top: 70px;
+    font-size: 24px;
+}
+h3{
+    color: rgb(0, 186, 242);
+    font-size: 24px;
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 40px;
+}
+#container{
+    position: absolute;
+    background: none;
+    height: 600px;
+    width: 360px;
+    margin-left: 900px;
+    background-color: lightgray;
+    margin-top: 160px;
+    
+    
+    padding: 20px;
+}
+input{
+margin-left: 50px;
+margin-top: 20px;
+width: 300px;
+height: 40px;
+background-color: white;
+border-radius: 3px;
+border: none;
+font-size: 10px;
+border-radius: 20px;
+
+}
+input[ type=submit] {
+   
+    background-color:lightskyblue;
+    
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
+h4{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    
+}
+#div2{
+    font-size: 20px;
+    font-family: Montserrat;
+}
+#choices{
+    width:300px;
+    height: 40px;
+    margin-left: 51px;
+    margin-top: 10px;
+}       
+.name{
+    margin-right: 10px;
+}
+input[value]{
+    font-size: 10px;
+}
+#div1{
+    display: flex;
+    
+}
+#div3 {
+    text-align: center;
+    width: 100%;
+    background-color: gray;
+    height: 100px;
+   font-family: Arial, sans-serif;
+}
+h5{
+    font-size: 25px;
+    padding: 40px;
+}
+#div5{
+    text-align: center;
+    margin-left: 190px;
+  
+}
+      
+#p1{
+  color:rgb(149, 152, 154);
+  font-size: 16px; 
+  margin-top: 20px;
+  margin-left: 12px;
+  
+}
+#div6{
+    text-align: center;
+    margin-left: 240px;
+}
+#div7{
+    text-align: center;
+    margin-left: 290px;
+}
+#p2{
+    color:rgb(149, 152, 154);
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 12px;
+  
+   
+}
+#img{
+    border-radius: 50%;
+    height: 170px;
+    
+}
+#img2{
+    border-radius: 50%;
+    height: 170px;
+}
+#img3{
+    border-radius: 50%;
+    height: 170px;
+}
+
+#p3{
+    color:rgb(149, 152, 154);
+    font-size: 16px;
+    margin-left:12px ;
+    margin-top: 20px;
+}
+#div4{
+    display: flex;
+    margin-top: 100px;
+}
+#div8{
+    background-image: url(./assert/loca.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 330px;
+    margin-top: 40px;
+    
+    display: flex;
+    gap: 10px;
+
+}
+#p4{
+    color: white;
+    
+    margin-top: 150px;
+    width: 100%;
+    font-size: 22px;
+ 
+    margin-left: 45px;
+}
+#hed{
+    color:rgb(19, 171, 222);
+    font-size: 30px;
+    font-weight: 700;
+}
+#p5{
+    color: white;
+    font-family: Arial, sans-serif;
+   font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+#div10{
+    
+    margin-top: 40px;
+   
+    margin-left: 400px;
+}
+#div9{
+    margin-top: 150px;
+    margin-left: 300px;
+    
+}
+#photo{
+    width: 400px;
+  height: 350px;
+  margin-left: 300px;
+}
+#div11{
+    display: flex;
+}
+#div11{
+    margin-top: 100px;
+    
+}
+#div13{
+    font-size: 48px;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: normal;
+  font-weight: 1000;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+#div14{
+    background-image: url(./assert/loca.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+  margin-top: 100px;
+}
+#a{
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    margin-left: 550px;
+    
+  }
+#div19{
+    padding-top: 30px;
+}
+
+#div18{
+    margin-left:580px ;
+}
+#div20{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+     color: rgb(229, 229, 229);
+     
+}
+#div21{
+    padding-top: 50px;
+    margin-left: 50px;
+   
+}
+#vl{
+    color: rgb(229, 229, 229);
+    opacity: 0.5;
+    align-self: center;
+    padding-top: 50px;
+}
